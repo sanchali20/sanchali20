@@ -1,6 +1,6 @@
 - 👋 Hi,There  I’m @sanchali20
 - 👀 I’m interested in ...Java, Python, C++
-- 🌱 I’m currently learning new programming languages and frameworks
+- 🌱 I’m currently learning new programming languages and frameworks.
 
 
 <!---
